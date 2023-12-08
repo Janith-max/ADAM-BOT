@@ -1,1 +1,1 @@
-##  ADAM  x BOT  WHATSAPP BOT
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=Leave+the+useless+educated+friends.+If+he+is+a+drug+addict+and+of+good+character,+associate+with+him)](https://git.io/typing-svg)
