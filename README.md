@@ -10,7 +10,7 @@
 
 <a href="https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7">
 
-<img alt="dark queen docs" height="900" src="https://i.ibb.co/R2TpKs6/Screenshot-20231205-121133.jpg"> </a>
+<img alt="dark queen docs" height="450" src="https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg"> </a>
 
 <h1 align="center">
 
