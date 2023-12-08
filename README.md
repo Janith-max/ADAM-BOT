@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=🅷YE+AM+DARK+QUEEN+MULTDIVICE🎧.;CREATED+BY+NIMESH+SANKALPA+AND🎧;JANITH+INDUNIL;POWERD+BY+CYBER+HUNTERS🎧;SO,HOW+ARE+YOU🎧;THANK+YOU+FOR+CHOOSING🎧;DARK+QUEEN+V1.0.1++🎧)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=🅷YE+AM+ADAM+xBOT+MULTDIVICE🎧.;CREATED+BY;JANITH+INDUNIL;POWERD+BY+JANETH+🎧;SO,HOW+ARE+YOU🎧;THANK+YOU+FOR+CHOOSING;ADAM+xBOT+V1.0.1++🎧)](https://git.io/typing-svg)
 
 <!DOCTYPE html>
 
@@ -10,11 +10,11 @@
 
 <a href="https://chat.whatsapp.com/IpDbNkTpz1l520HHFuS7B7">
 
-<img alt="dark queen docs" height="450" src="https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg"> </a>
+<img alt="Adam x Bot docs" height="450" src="https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg"> </a>
 
 <h1 align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=DARK+QUEEN+MULTDIVICE+BOT++🎧" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🎧+Adam+xBot+Multdivice+whatsapp+Bot+🎧" alt="Typing SVG" /></a>
 
 </h1>
 
