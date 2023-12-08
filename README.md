@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=Leave+the+useless+educated+friends;+If+he+is+a+drug+addict;and+of+good+character;+associate+with+him)](https://git.io/typing-svg)
+999## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=Leave+the+useless+educated+friends;+If+he+is+a+drug+addict;and+of+good+character;+associate+with+him)](https://git.io/typing-svg)
 
 
 
@@ -35,3 +35,30 @@
 
 2. ***ᴄʟɪᴄᴋ ᴛᴏ [ꜰᴏʀᴋ](https://github.com/Janithmax234/Dark-queen)***
 ---
+
+Copy the JSON down and paste in repl and hiroku then fill the vars
+
+```
+{
+
+
+  "SESSION_ID": "ᴘᴀꜱᴛᴇ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ ɪᴅ",
+  "OWNER_NUMBER": "ᴀᴅᴅ ʏᴏᴜʀ ᴡʜᴀᴛꜱᴀᴘᴘ ɴᴜᴍʙᴇʀ",
+  "OWNER_NAME": "ᴛʏᴘᴇ ʏᴏᴜʀ ɴᴀᴍᴇ",
+  "OPENAI_API_KEY"ᴘᴀꜱᴛᴇ ʏᴏᴜʀ ᴘʟᴀᴛꜰᴏʀᴍ.ᴏᴘᴇɴ ᴀᴘɪ ᴋᴇʏ",
+  "MONGODB_URI": "ᴀᴅᴅ ʏᴏᴜʀ ᴅʙ ᴜʀʟ/",
+  "PACK_INFO": "ᴀᴅᴀᴍ;ᴛʏᴘᴇ ʏᴏᴜʀ ɴᴀᴍᴇ",
+  "PREFIX": ".",
+  "AUTO_REACTION": ꜰᴀʟꜱᴇ,
+  "READ_MESSAGE" : ᴛʀᴜᴇ,
+  "THEME" : 'ᴀᴅᴀᴍ-x-ʙᴏᴛ',
+  "ALWAYS_ONLINE": 'ꜰᴀʟꜱᴇ',
+  "ALIVE_MESSAGE": 'ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴀᴅᴀᴍ x ᴊᴀɴᴇᴛʜ',
+  "DISABLE_PM": 'ᴛʀᴜᴇ',
+  "AUTO_STRETUS_SEEN": 'ꜰᴀʟꜱᴇ'
+  "HEROKU_API_KEY": 'ᴘᴀꜱᴛᴇ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘɪ ᴋᴇʏ',
+  "WORKTYPE": 'ᴘʀɪᴠᴇᴛ/ᴘᴜʙʟɪᴄ',
+
+  
+}
+```
