@@ -33,9 +33,11 @@
 <a href='https://github.com/Janith-max/ADAM-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
   
 --- 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[ꜰᴏʀᴋ+ᴀᴅᴀᴍ+x+ʙᴏᴛ]" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[ꜱᴄᴀɴ+ᴀᴅᴀᴍ+x+Qʀ+ᴄᴏᴅᴇꜱ]" alt="Typing SVG" /></a>
 
-2. ***ᴄʟɪᴄᴋ ᴛᴏ [ꜰᴏʀᴋ](https://github.com/Janithmax234/Dark-queen)***
+2.     <br>
+<a href='https://replit.com/@Gurucharan-saho/GURU-BOT-PAIR?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
 ---
 
 Copy the JSON down and paste in repl and hiroku then fill the vars
