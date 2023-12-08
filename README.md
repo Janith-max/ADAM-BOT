@@ -35,7 +35,7 @@
 --- 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[ꜱᴄᴀɴ+ᴀᴅᴀᴍ+x+Qʀ+ᴄᴏᴅᴇꜱ]" alt="Typing SVG" /></a>
 
-2.     <br>
+  <br>
 <a href='https://replit.com/@Gurucharan-saho/GURU-BOT-PAIR?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ---
