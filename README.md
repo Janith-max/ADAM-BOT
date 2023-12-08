@@ -27,7 +27,8 @@
     </a>
   </p>
 ---
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[ꜱᴄᴀɴ+ᴀᴅᴀᴍ+x+ʙᴏᴛ+Qʀ+ᴄᴏᴅᴇ]" alt="Typing SVG" /></a>
+## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[ꜱᴄᴀɴ+ᴀᴅᴀᴍ+x+ʙᴏᴛ+Qʀ+ᴄᴏᴅᴇ]" alt="Typing SVG" /></a>
+  
 1. ***ɢᴇᴛ [ꜱᴇꜱꜱɪᴏɴ-ɪᴅ](https://replit.com/@Janithidunil/Dark-queen) ʙʏ ꜱᴄᴀɴɪɴɢ Qʀ ᴄᴏᴅᴇ. `ᴡʜᴀᴛꜱᴀᴘᴘ>ᴛʜʀᴇᴇ ᴅᴏᴛꜱ>ʟɪɴᴋᴇᴅ ᴅɪᴠɪᴄᴇꜱ`***
 --- 
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=[ꜰᴏʀᴋ+ᴀᴅᴀᴍ+x+ʙᴏᴛ]" alt="Typing SVG" /></a>
