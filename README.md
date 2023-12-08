@@ -66,3 +66,71 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
   
 }
 ```
+
+
+#### DEPLOY TO HEROKU
+
+1. If You don't have an account in Heroku. Create a account.
+    <br>
+<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+2. Watch the following video tutorial, for assistance.
+    <br>
+<p align="center"><a href="https://youtu.be/yfdzckCcbPk?si=doxesZtn87BepUBw"> <img src="https://img.shields.io/badge/heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+3. Now Deploy
+    <br>
+<p align="center"><a href="https://www.guruapi.tech"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+#### DEPLOY TO RAILWAY
+
+1. If You don't have an account On Railway. Create a account.
+    <br>
+<p align="center"><a href="https://railway.app"> <img src="https://img.shields.io/badge/RailWay%20Account-blue?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
+
+ - Fork and star this repo.
+- Now head towards https://railway.app/new, select Deploy from repo.
+- Now select the forked repository, select branch.
+- Now go to <b>Variables</b> and add variable listed below.
+   - DATABASE_URL, SESSION_ID, REMOVEBG_KEY, PREFIX
+- Go to <b>Deployments</b> and wait for deplyment to complete.
+- and you're good to go.
+  
+2. TUTORIAL (SOON)
+#### DEPLOY TO OKTETO 
+
+1. If You don't have an account On Okteto. Create a account.
+    <br>
+<p align="center"><a href="https://www.okteto.com/pricing/?plan=SaaS"> <img src="https://img.shields.io/badge/Okteto%20Account-blue?style=for-the-badge&logo=okteto" width="220" height="38.45"/></a></p>
+
+ - Fork and star this repo.
+- Now head towards Lunch Dev Environment
+- Now select the forked GURU BOT repository.
+- Now go to <b>Variables</b> and add variable listed below.
+   - DATABASE_URL, SESSION_ID, REMOVEBG_KEY, PREFIX
+- Then Click Lunch and wait for deplyment to complete.
+- and you're good to go.
+
+2. TUTORIAL (SOON)
+#### DEPLOY TO Replit 
+
+1. If You don't have an account in Replit. Create a account.
+    <br>
+<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+
+2. Now Deploy
+    <br>
+<p align="center"><a href="https://repl.it/github/Guru322/GURU-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+
+ 
+ 
+ ## 🤩 Support
+
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+
+- Star ⭐ the repo if you like GURU-BOT.
+
+## CREDITS 
+<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
+<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
