@@ -22,8 +22,8 @@
     <div hx-get="/visitor_count" hx-target="this" hx-swap="innerHTML"></div>
   </p>
   <p align="center">
-    <a href="https://chat.whatsapp.com/FxJHUkHOXRBGx4df0K6Qcj" target="_blank">
-      <img alt="whatsapp Group" src="https://img.shields.io/badge/ AI DARK QUEEN SUPPORT GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
+    <a href="https://chat.whatsapp.com/JAaipo4Z9ldLCEh0pXidqL" target="_blank">
+      <img alt="whatsapp Group" src="https://img.shields.io/badge/ Adam x Bot Support Group  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
     </a>
   </p>
 ---
