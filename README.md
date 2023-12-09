@@ -43,6 +43,13 @@
 <a href='https://replit.com/@janithmx3412/ADAM-BOT-3?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 ---
+---
+---
+---
+---
+
+
+
 
 Copy the JSON down and paste in repl and hiroku then fill the vars
 
