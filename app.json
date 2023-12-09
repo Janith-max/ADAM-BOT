@@ -1,7 +1,7 @@
 2{
   "name": "ADAM-xBOT-GITHUB",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
+  "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Adam-Two", "AdamxBot", "adamxbot","AdamxMD","adam bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
@@ -28,7 +28,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg72656e6465722e636f6d2f6d61696e2e6a7067"
+     "value": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -80,7 +80,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "adam;xbot"
+     "value": "ADAM-BOT"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "adam;xbot",
+     "value": "adam-bot",
      "required": false 
   },
   "heroku": {
