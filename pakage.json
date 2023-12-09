@@ -1,6 +1,6 @@
 {
                "name": "Adam-xBot-md",
-               "version": "4.0",
+               "version": "1.0",
                "description": "Multi device whatsapp bot by janeth.",
                "main": "lib/client.js",
                "type": "commonjs",
@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name adam-md",
                 "stop": "pm2 stop adam-md"
                 },
-               "author": "Mr xJaneth",
+               "author": "SamPandey001",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
