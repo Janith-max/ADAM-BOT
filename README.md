@@ -23,7 +23,7 @@
   </p>
   <p align="center">
     <a href="https://chat.whatsapp.com/JAaipo4Z9ldLCEh0pXidqL" target="_blank">
-      <img alt="whatsapp Group" src="https://img.shields.io/badge/ ᴀᴅᴀᴍ x ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ ʟɪɴᴋ  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
+      <img alt="whatsapp Group" src="https://img.shields.io/badge/ ᴀᴅᴀᴍ ꜱʏʙᴇʀ ᴢᴇᴇ ꜱQᴜʀᴅ ꜱᴜᴘᴘᴏʀᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ɢʀᴏᴜᴘ ʟɪɴᴋ  -25D366?style=for-the-badge&logo=whatsapp&logoColor=black" />
     </a>
   </p>
 
