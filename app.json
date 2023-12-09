@@ -1,19 +1,18 @@
 2{
-  "name": "ADAM-xBOT-GITHUB 🎧",
+  "name": "ADAM-xBOT-GITHUB",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Adam-Two", "AdamxBot", "adamxbot","AdamxMD","adam bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Adam xJaneth"
+      "value": "xJaneth"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
      "required" :false
-	"value": "ʜʏᴇ ᴜꜱᴇʀꜱ. ᴀᴍ ᴀʟɪᴠᴇ ɴᴏᴡ ᴛʏᴘᴇ ᴍᴇɴᴜ/ʟɪꜱᴛ ᴛᴏ ᴍʏ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ
     },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -81,7 +80,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "ᴀᴅᴀᴍ-x-ʙᴏᴛ"
+     "value": "adam;xbot"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -94,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "ᴀᴅᴀᴍ-x-ʙᴏᴛ",
+     "value": "adam;xbot",
      "required": false 
   },
   "heroku": {
