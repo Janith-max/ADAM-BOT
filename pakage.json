@@ -1,5 +1,5 @@
 {
-               "name": "Adam-xBot-md",
+               "name": "Adam-xBot",
                "version": "1.0",
                "description": "Multi device whatsapp bot by janeth.",
                "main": "lib/client.js",
