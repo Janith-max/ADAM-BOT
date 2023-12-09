@@ -1,4 +1,4 @@
-{
+2{
   "name": "ADAM-xBOT-GITHUB 🎧",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
@@ -13,6 +13,7 @@
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
      "required" :false
+	"value": "ʜʏᴇ ᴜꜱᴇʀꜱ. ᴀᴍ ᴀʟɪᴠᴇ ɴᴏᴡ ᴛʏᴘᴇ ᴍᴇɴᴜ/ʟɪꜱᴛ ᴛᴏ ᴍʏ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ ʟɪꜱᴛ
     },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -28,7 +29,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://camo.githubusercontent.com/14279dac3151a95fca8ec5bebda435d68d62c49f6aa4f30749f541ee985ad21b/68747470733a2f2f7365636b746f7275736572626f742e6f6e72656e6465722e636f6d2f6d61696e2e6a7067"
+     "value": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg72656e6465722e636f6d2f6d61696e2e6a7067"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -41,7 +42,7 @@
     },
      "ANTILINK_ACTION": {
     "description": "Put action for antilink",
-     "value": "remove",
+     "value": "false",
      "required" :false
     },
   "LEVEL_UP_MESSAGE": {
@@ -80,7 +81,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "ADAM-xBOT"
+     "value": "ᴀᴅᴀᴍ-x-ʙᴏᴛ"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -93,7 +94,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "JANETH-IDUNIL;ADAM xBOT",
+     "value": "ᴀᴅᴀᴍ-x-ʙᴏᴛ",
      "required": false 
   },
   "heroku": {
