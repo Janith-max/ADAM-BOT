@@ -1,12 +1,12 @@
 {
                "name": "ADAM-MD",
                "version": "1.0.1",
-               "description": "Multi device whatsapp bot by Naveed.",
+               "description": "Multi device whatsapp bot by janeth.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name king",
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name adam",
                 "stop": "pm2 stop king"
                 },
                "author": "SamPandey001",
