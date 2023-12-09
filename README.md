@@ -89,7 +89,7 @@ Copy the JSON down and paste in repl and hiroku then fill the vars
 
 2. Now Deploy
     <br>
-<p align="center"><a href="https://github.com/Janith-max/ADAM-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
  
  
