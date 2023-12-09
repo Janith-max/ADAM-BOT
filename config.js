@@ -19,11 +19,11 @@ global.TIMEZONE = 'Asia/Colombo'
 global.website = 'https://github.com/Janith-max/ADAM-BOT' //wa.me/+91000000000000
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'ADAM-xBOT-MD' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'ADAM-xJANETH' : process.env.OWNER_NAME,
+  botname:   process.env.BOT_NAME === undefined ? 'ᴀᴅᴀᴍ-x-ʙᴏᴛ' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? 'ᴀᴅᴀᴍ-ᴊᴀɴᴇᴛʜ' : process.env.OWNER_NAME,
   ownernumber: process.env.OWNER_NUMBER === undefined ? '94752013704' : process.env.OWNER_NUMBER,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'ADAM xBOT GITHUB:JANETH : process.env.PACK_INFO.split(";")[0],
+  author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'ADAM;xBOT : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'ᴀᴅᴀᴍ x ʙᴏᴛ' : process.env.PACK_INFO.split(";")[1],	
   dl_limit: process.env.DL_SIZE || '350',
@@ -43,16 +43,16 @@ module.exports = {
   BRANCH: 'main',
   autobio:  process.env.AUTO_BIO === undefined ? false : process.env.AUTO_BIO,
   ALIVE_MESSAGE:  process.env.ALIVE_MESSAGE === undefined ? '' : process.env.ALIVE_MESSAGE,
-  caption :process.env.CAPTION || "  \t🎧 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀᴅᴀᴍ x ᴊᴀɴᴇᴛʜ*",
+  caption :process.env.CAPTION || "  \t *ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ꜱʏʙᴇʀ ᴢᴇᴇ ꜱQᴜʀᴅ*",
   OPENAI_API_KEY:  process.env.OPENAI_API_KEY === undefined ? false : process.env.OPENAI_API_KEY,
   heroku:  process.env.heroku === undefined ? false : process.env.heroku,
   HEROKU: {
     HEROKU: process.env.HEROKU ||false,
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '1abfce1e-1bee-4334-9f6c-f4c1cb1cafab' : process.env.HEROKU_API_KEY,
-    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? 'zeropgg' : process.env.HEROKU_APP_NAME
+    APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
   VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'ADAM',
+  LANG: process.env.THEME|| 'ᴀᴅᴀᴍ',
   WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
 };
 
