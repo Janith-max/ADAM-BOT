@@ -1,0 +1,54 @@
+{
+  "__JSON__": true,
+  "AUTHOR": "Aᴅᴀᴍ-x-ʙᴏᴛ",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+      "updater": {
+          "UPDATE": "*Yᴏᴜʀ ʙᴏᴛ ɪꜱ ᴀʟʀᴇᴀᴅʏ ᴏɴ ʟᴀᴛᴇꜱᴛ ᴠᴇʀꜱɪᴏɴ,ɢᴜʏ*",
+          "NEW_UPDATE": "```There is a new update available for the bot!```\n\n*Changes:*\n",
+          "UPDATED_LOCAL": "*ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ ᴜᴘᴅᴀᴛᴇᴅ!*"
+      },
+      "global": {
+          "botName": "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅᴀᴍ-1.0.1",
+          "body": "Wʜᴀᴛꜱᴀᴘᴘ-Bᴏᴛ",
+          "greet2" : "ᴀᴅᴀᴍ",
+          "pic1": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
+          "pic2": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
+          "pic3": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
+          "pic4": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
+          "pic5": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
+          "pic6": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
+          "pic7": "https://i.ibb.co/Xy30DrV/Picsart-23-12-08-03-30-18-081.jpg",
+           "greet" : "ᴀᴅᴀᴍ",
+         "dotbody" : "ɪ'ᴍ ᴀʟɪᴠᴇ , ᴄʏʙᴇʀ ᴢᴇᴇ ᴢQᴜʀᴅ.",
+          "promote": "ᴀᴅᴍɪɴ ʀᴏʟᴇ ɢɪᴠᴇɴ ᴛᴏ ᴍʏ ᴅᴀʀʟɪɴɢ",
+          "pmallow": "```Hii,This is Secktor-2.0``` \n```An assistant of My Author.```\n```My Author is busy right now.```\n```Kindly Leave your Message.```\n\n```I will inform him about your message asap......```",
+          "pmblock": "❌ *ʙʟᴏᴄᴋᴇᴅ*\n\n Yᴏᴜ ʜᴀᴠᴇ ʙᴇᴇɴ ʙʟᴏᴄᴋᴇᴅ ꜰᴏʀ ꜱᴘᴀᴍᴍɪɴɢ.\n\n _ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅᴀᴍ-1.0.1_",
+          "pmwarn": "✋*Hɪɪ* \nᴘʟᴇᴀꜱᴇ ᴅᴏɴ'ᴛ ꜱᴘᴀᴍ ᴇʟꜱᴇ ɪ'ʟʟ ʙʟᴏᴄᴋ ʏᴏᴜ ꜰᴏʀ ꜱᴘᴀᴍᴍɪɴɢ. _Yᴏᴜ ʜᴀᴠᴇ ${checkPermit.times} ᴡᴀʀɴɪɴɢ(s)._\n\n *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅᴀᴍ-.0.1*",
+          "permited": "Hɪɪ ${tname} Sᴇɴᴘᴀɪ*\n\nNᴏᴡ ʏᴏᴜ ᴀʀᴇ ᴘᴇʀᴍɪᴛᴛᴇᴅ ʙʏ ᴍʏ ᴏᴡɴᴇʀ ᴛᴏ ᴘᴍ ɴᴏᴡ.\n\n *ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅᴀᴍ-1.0.1", 
+          "revoked" : "*Hɪɪ ${tname} Sᴇɴᴘᴀɪ*\n\nYᴏᴜʀ ᴘᴍ ᴘᴇʀᴍɪᴛ ᴘᴇʀᴍɪꜱꜱɪᴏɴ ʜᴀꜱ ʙᴇᴇɴ ᴘʀᴏᴠᴏᴋᴇᴅ ɴᴏᴡ.\n\n _ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀᴅᴀᴍ-1.0.1_",
+          "demote": "Uʜʜ,Aᴅᴍɪɴ-Rᴏʟᴇ ᴛᴀᴋᴇɴ ʙᴀᴄᴋ",
+          "antlink": "Lɪɴᴋ-Dᴇᴛᴇᴄᴛᴇᴅ.\n*Gᴏᴏᴅ ʙʏᴇ ɢᴜʏ*",
+          "mention": "Pʟᴇᴀꜱᴇ ᴍᴇɴᴛɪᴏɴ ᴀɴʏ ᴜꜱᴇʀ ɢᴜʏ",
+          "title": "ᴀᴅᴀᴍ-1.0.1",
+          "footer": "ᴀᴅᴀᴍ-1.0.1",
+          "by": "Mᴀᴅᴇ ʙʏ : *ꜱʏʙᴇʀᴢᴇᴇꜱQᴜʀᴅ*",
+          "chat_desc": "Oᴘᴛɪᴏɴꜱ ᴀᴠɪʟᴀʙʟᴇ* : 1. ᴍᴜᴛᴇ\n2. ᴜɴᴍᴜᴛᴇ\n3. Aʀᴄʜɪᴠᴇ\n4. Uɴᴀʀᴄʜɪᴠᴇ\n5. ʀᴇᴀᴅ\n6. ᴜɴʀᴇᴀᴅ\n7. ᴅᴇʟᴇᴛᴇ",
+          "success": "Dᴏɴᴇ  ✅",
+          "dot": "Dɪᴅ ʏᴏᴜ ᴍᴇᴀɴ *ʜᴇʟᴘ*?",
+          "couple_male": "*I ᴅᴏɴᴛ ᴡᴀɴᴛ ᴛᴏ ᴅɪᴇ ᴀʟᴏɴᴇ,ɪ ᴡᴀɴᴛ ᴀ ꜰᴇᴍᴀʟᴇ*",
+          "couple_female": "*I ᴅᴏɴᴛ ᴡᴀɴᴛ ᴛᴏ ᴅɪᴇ ᴀʟᴏɴᴇ,ɪ ᴡᴀɴᴛ ᴀ ᴍᴀʟᴇ*",
+          "admin": "Tʜɪꜱ *ᴄᴏᴍᴍᴀɴᴅ* ɪꜱ ᴏɴʟʏ ꜰᴏʀ Gʀᴏᴜᴘ-Aᴅᴍɪɴꜱ⚠️!",
+          "botAdmin": "Pʟᴇᴀꜱᴇ ᴘʀᴏᴠɪᴅᴇ ᴍᴇ *ᴀᴅᴍɪɴ-ʀᴏʟᴇ* ᴛᴏ ᴘʀᴏᴄᴇᴇᴅ.❗",
+          "owner": "Tʜɪꜱ *ᴄᴏᴍᴍᴀɴᴅ* ɪꜱ ᴏɴʟʏ ꜰᴏʀ ᴍʏ ᴏᴡɴᴇʀ ⚠️",
+          "group": "Tʜɪꜱ *ꜰᴇᴀᴛᴜʀᴇ* ɪꜱ ᴏɴʟʏ ꜰᴏʀ ɢʀᴏᴜᴘꜱ, ɢᴜʏ❗",
+          "private": "Tʜɪꜱ ꜰᴇᴀᴛᴜʀᴇ ɪꜱ ᴏɴʟʏ ꜰᴏʀ ᴛʜᴇ *ʙᴏᴛ-ᴏᴡɴᴇʀ* ⚠️",
+          "bot": "Tʜɪꜱ ꜰᴇᴀᴛᴜʀᴇ ɪꜱ ᴏɴʟʏ ꜰᴏʀ ᴛʜᴇ *ʙᴏᴛ-ɴᴜᴍʙᴇʀ* ⚠️",
+          "wait": "Pʀᴏᴄᴇꜱꜱɪɴɢ ʏᴏᴜʀ ʀᴇQᴜᴇꜱᴛ ✅" 
+      },
+      "error": {
+          "text": "*Uʜʜ,ɢᴏᴛ ᴀɴ Eʀʀᴏʀ*"
+      }
+  }
+}
